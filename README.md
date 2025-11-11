@@ -1,16 +1,33 @@
-## Hi there 👋
+# Marketcalls  
+> Trader · Open-Source Developer · Indian Equities · Algo Trading  
 
-<!--
-**marketcalls/marketcalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi there 👋** I’m the creator of OpenAlgo, an open-source algorithmic trading framework for Indian traders.  
+Based in Bengaluru, India.  
 
-Here are some ideas to get you started:
+## 🎯 What I do  
+- Build open-source tools for trading with Indian exchanges (NSE, MCX, etc)  
+- Use machine-learning (CatBoost, SHAP) + Python + historical 1-minute data  
+- Share tutorials, blog posts and code for traders-not-coders  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects  
+- [OpenAlgo](link) – Fully open-source framework for algo trading with Python  
+- [OpenAdvisor](link) – Self-hostable ML based stock recommendation platform  
+- [SketchMaker](link) – Digital creative tool for teams  
+_(…add more with one-line description)_
+
+## 🧰 Tech & Tools  
+Python · PandasTA/TALib · SQLAlchemy · APScheduler · TradingView Lightweight Charts · CatBoost · SHAP · OpenAlgo API · …
+
+## 📝 Blog & Talks  
+- “Forecasting Nifty-50 with CatBoost & SHAP” (link)  
+- YouTube live “50 Market Depth: L1→L2→L3” (link)  
+- …
+
+## 📫 Connect with me  
+Website / Twitter / Telegram / YouTube  
+`@marketcallsHQ` on X (Twitter)  
+Bengaluru, India  
+
+---
+
+Made with ❤️ in India  
