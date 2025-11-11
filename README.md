@@ -1,22 +1,23 @@
 # Rajandran R (@marketcalls)
 
-Creator of **OpenAlgo** – the Open-Source Algo Trading Framework for Indian Traders.  
+Creator of **OpenAlgo** – the open-source algorithmic trading framework for Indian traders.  
 Building **GenAI Applications** for Trading and Automation.  
 Telecom Engineer turned Full-Time Derivative Trader.  
 
 I primarily trade **Nifty**, **BankNifty**, and **high-liquidity stock derivatives**.  
 Trading the markets since 2006, using **Market Profile** and **Orderflow** for more than a decade.  
-I have designed and published over 100 open-source trading systems across various trading platforms.  
+I have designed and published over 100 open-source trading systems across various platforms.  
 
 I believe that true trading success lies in **market understanding** and **robust frameworks**.  
 Over the years, I’ve been building algo platforms, writing about market sentiment, trading system design, and the nuances of trading technology.  
-Author of [Marketcalls.in](https://www.marketcalls.in) – a financial blog covering trading systems, trading platforms, and now, the evolution of **open-source algorithmic trading** powered by **AI tools**.
+
+Author of [Marketcalls.in](https://www.marketcalls.in) – a financial blog covering trading systems, trading platforms, and now the evolution of **open-source algorithmic trading** powered by **AI tools**.  
 
 The entire Marketcalls repository — including **OpenAlgo** and its **Mini FOSS Universe** — is built using **AI Agentic Coding Tools**, showcasing what’s possible when human trading experience meets generative AI development.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### [OpenAlgo](https://github.com/marketcalls/openalgo)
 OpenAlgo is an open-source algorithmic trading framework designed for Indian traders.  
@@ -29,12 +30,12 @@ It combines trading analytics, machine learning, and personalized signal generat
 
 ---
 
-## Mini FOSS Universe
+## 🌐 Mini FOSS Universe
 
 Explore the open-source ecosystem around OpenAlgo — built for traders, by traders.  
 Whether you’re into Python, Node.js, Excel, Rust, or the Web — there’s something here for every kind of automation enthusiast.
 
-**GitHub Repositories**
+### GitHub Repositories
 
 **OpenAlgo Core** (Python Flask + Tailwind + DaisyUI)  
 https://github.com/marketcalls/openalgo
@@ -86,7 +87,7 @@ Let’s make algo trading more open, accessible, and powerful for everyone.
 
 ---
 
-## About Marketcalls
+## ✍️ About Marketcalls
 
 Marketcalls started in 2007 as a financial blog for traders and technologists.  
 Over the years, it evolved into a full-fledged open-source movement focused on algorithmic trading, broker integrations, and AI-driven trading systems.
@@ -95,3 +96,13 @@ Today, the Marketcalls GitHub organization represents that evolution — a livin
 
 ---
 
+## 📫 Connect
+
+Website: [marketcalls.in](https://www.marketcalls.in)  
+YouTube: [youtube.com/marketcalls](https://www.youtube.com/marketcalls)  
+Twitter: [@marketcallsHQ](https://twitter.com/marketcallsHQ)  
+Discord: [OpenAlgo Community](https://openalgo.in/discord)
+
+---
+
+Made with passion for markets, code, and open-source innovation.
