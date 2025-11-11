@@ -24,10 +24,6 @@ OpenAlgo is an open-source algorithmic trading framework designed for Indian tra
 It simplifies order execution, data streaming, and broker integration through a unified API across 20+ brokers.  
 Built using Python Flask, Tailwind, and DaisyUI — it aims to make algo trading more accessible, modular, and community-driven.
 
-### [OpenAdvisor](https://github.com/marketcalls/openadvisor)
-OpenAdvisor is a self-hostable AI-driven portfolio and trading advisor.  
-It combines trading analytics, machine learning, and personalized signal generation to assist traders and investors in decision-making.
-
 ---
 
 ## 🌐 Mini FOSS Universe
