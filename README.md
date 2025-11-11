@@ -13,7 +13,7 @@ Based in Bengaluru, India.
 - [OpenAlgo](link) – Fully open-source framework for algo trading with Python  
 - [OpenAdvisor](link) – Self-hostable ML based stock recommendation platform  
 - [SketchMaker](link) – Digital creative tool for teams  
-_(…add more with one-line description)_
+
 
 ## 🧰 Tech & Tools  
 Python · PandasTA/TALib · SQLAlchemy · APScheduler · TradingView Lightweight Charts · CatBoost · SHAP · OpenAlgo API · …
