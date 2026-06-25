@@ -9,7 +9,7 @@ Telecom Engineer turned Full-Time Derivative Trader.
 ## 📫 Connect
 
 Website: [marketcalls.in](https://www.marketcalls.in)  
-OpenAlgo: [marketcalls.in](https://www.openalgo.in)  
+OpenAlgo: [openalgo.in](https://www.openalgo.in)  
 YouTube: [youtube.com/marketcalls](https://www.youtube.com/marketcalls)  
 Twitter: [@marketcallsHQ](https://twitter.com/marketcallsHQ)  
 Discord: [OpenAlgo Community](https://openalgo.in/discord)
