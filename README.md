@@ -2,7 +2,7 @@
 
 Creator of **OpenAlgo**, **SketchMaker** and **RagZ**.
 
-- **[OpenAlgo](https://github.com/marketcalls/openalgo)** – the open-source algorithmic trading framework for Indian traders.
+- **[OpenAlgo](https://github.com/marketcalls/openalgo)** – your personal self-hosted trading platform.
 - **[SketchMaker](https://github.com/marketcalls/sketchmaker)** – a self-hostable digital creative machine for creators.
 - **[RagZ](https://github.com/marketcalls/ragz)** – a self-hosted, high-performance RAG.
 
